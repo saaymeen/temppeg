@@ -1,4 +1,4 @@
-module github.com/saaymeen/goffmpeg
+module github.com/saaymeen/temppeg
 
 go 1.14
 
